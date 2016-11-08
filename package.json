@@ -1,5 +1,5 @@
 {
-  "name": "odometer",
+  "name": "@spotim/fed.vendor.odometer",
   "version": "0.4.8",
   "description": "Transition numbers with ease",
   "main": "odometer.js",
